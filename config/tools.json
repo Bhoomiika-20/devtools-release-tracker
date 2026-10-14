@@ -1,0 +1,7 @@
+[
+  { "name": "Node.js", "repo": "nodejs/node" },
+  { "name": "React", "repo": "facebook/react" },
+  { "name": "Vite", "repo": "vitejs/vite" },
+  { "name": "TypeScript", "repo": "microsoft/TypeScript" },
+  { "name": "VS Code", "repo": "microsoft/vscode" }
+]

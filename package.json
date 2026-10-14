@@ -1,0 +1,13 @@
+{
+  "name": "devtools-release-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Track public GitHub releases and publish reports only when their content changes.",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "track": "node src/cli.js",
+    "demo": "node src/demo.js",
+    "test": "node --test"
+  }
+}

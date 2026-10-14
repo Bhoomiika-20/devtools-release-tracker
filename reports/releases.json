@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "tools": [
+    {
+      "name": "Node.js",
+      "repo": "nodejs/node",
+      "release": {
+        "tag": "v26.11.1",
+        "title": "2026-10-07, Version 26.11.1 (Current), @aduh95",
+        "publishedAt": "2026-10-07T23:55:23Z",
+        "url": "https://github.com/nodejs/node/releases/tag/v26.11.1",
+        "notes": "### Commits\n\n* \\[[`2dc4638e85`](https://github.com/nodejs/node/commit/2dc4638e85)] - _**Revert**_ \"**build**: toggle doc-kit verbosity based on V\" (Antoine du Hamel)\n* \\[[`3febbc54"
+      }
+    },
+    {
+      "name": "React",
+      "repo": "facebook/react",
+      "release": {
+        "tag": "v19.3.0",
+        "title": "19.3.0 (September 9, 2026)",
+        "publishedAt": "2026-09-09T18:01:33Z",
+        "url": "https://github.com/react/react/releases/tag/v19.3.0",
+        "notes": "Below is a list of all new features, APIs, and bug fixes.\r\n\r\nRead the [React 19.3 release post](https://react.dev/blog/2026/09/09/react-19-3) for more information.\r\n\r\n## New React "
+      }
+    },
+    {
+      "name": "Vite",
+      "repo": "vitejs/vite",
+      "release": {
+        "tag": "v8.3.4",
+        "title": "v8.3.4",
+        "publishedAt": "2026-10-08T12:03:54Z",
+        "url": "https://github.com/vitejs/vite/releases/tag/v8.3.4",
+        "notes": "### Features\n\n* **bundled-dev:** support `import.meta.hot.acceptExports` ([#23463](https://github.com/vitejs/vite/issues/23463)) ([bc0f21c](https://github.com/vitejs/vite/commit/bc"
+      }
+    },
+    {
+      "name": "TypeScript",
+      "repo": "microsoft/TypeScript",
+      "release": {
+        "tag": "v7.0.2",
+        "title": "TypeScript 7.0.2",
+        "publishedAt": "2026-08-20T18:09:49Z",
+        "url": "https://github.com/microsoft/TypeScript/releases/tag/v7.0.2",
+        "notes": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/\r\n\r\nThis tag was originally released at: https://github.com/microsoft/typescript-go/releases/tag/typescript%2Fv7"
+      }
+    },
+    {
+      "name": "VS Code",
+      "repo": "microsoft/vscode",
+      "release": {
+        "tag": "1.141.1",
+        "title": "1.141.1",
+        "publishedAt": "2026-10-13T21:53:53Z",
+        "url": "https://github.com/microsoft/vscode/releases/tag/1.141.1",
+        "notes": ""
+      }
+    }
+  ]
+}
