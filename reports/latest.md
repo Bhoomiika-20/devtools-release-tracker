@@ -5,11 +5,11 @@ This report changes only when tracked content changes. See Actions for check tim
 
 | Tool | Repository | Release | Published (UTC) |
 | --- | --- | --- | --- |
-| Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.11\.1](https://github.com/nodejs/node/releases/tag/v26.11.1) | 2026-10-07 |
-| React | [facebook/react](https://github.com/facebook/react) | [v19\.3\.0](https://github.com/react/react/releases/tag/v19.3.0) | 2026-09-09 |
+| Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.12\.0](https://github.com/nodejs/node/releases/tag/v26.12.0) | 2026-10-14 |
+| React | [facebook/react](https://github.com/facebook/react) | [v19\.3\.1](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 |
 | Vite | [vitejs/vite](https://github.com/vitejs/vite) | [v8\.3\.4](https://github.com/vitejs/vite/releases/tag/v8.3.4) | 2026-10-08 |
 | TypeScript | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [v7\.0\.2](https://github.com/microsoft/TypeScript/releases/tag/v7.0.2) | 2026-08-20 |
-| VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.141\.1](https://github.com/microsoft/vscode/releases/tag/1.141.1) | 2026-10-13 |
+| VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.142\.0](https://github.com/microsoft/vscode/releases/tag/1.142.0) | 2026-10-14 |
 
 ## Release note excerpts
 
@@ -17,11 +17,11 @@ Excerpts are attributed to each linked upstream project. Follow the link for ful
 
 ### Node\.js
 
-\#\#\# Commits  \* \\\[\[\`2dc4638e85\`\]\(https://github\.com/nodejs/node/commit/2dc4638e85\)\] \- \_\*\*Revert\*\*\_ "\*\*build\*\*: toggle doc\-kit verbosity based on V" \(Antoine du Hamel\) \* \\\[\[\`3febbc54
+\#\#\# Notable Changes  \* \\\[\[\`1ebd6d3677\`\]\(https://github\.com/nodejs/node/commit/1ebd6d3677\)\] \- \*\*\(SEMVER\-MINOR\)\*\* \*\*doc,lib,src\*\*: throw on missing WebAssembly or RX support \(Paolo
 
 ### React
 
-Below is a list of all new features, APIs, and bug fixes\.  Read the \[React 19\.3 release post\]\(https://react\.dev/blog/2026/09/09/react\-19\-3\) for more information\.  \#\# New React 
+\#\# React Server Components  \- Improve transport protocol \(\[\#37845\]\(https://github\.com/facebook/react/pull/37845\) by @unstubbable and @eps1lon\)
 
 ### Vite
 
@@ -33,5 +33,5 @@ https://devblogs\.microsoft\.com/typescript/announcing\-typescript\-7\-0/  This 
 
 ### VS Code
 
-No release notes provided\.
+https://code\.visualstudio\.com/updates/v1\_142
 
