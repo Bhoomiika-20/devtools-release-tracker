@@ -27,11 +27,11 @@
       "name": "Vite",
       "repo": "vitejs/vite",
       "release": {
-        "tag": "create-vite@9.3.0",
-        "title": "create-vite@9.3.0",
-        "publishedAt": "2026-10-19T08:05:45Z",
-        "url": "https://github.com/vitejs/vite/releases/tag/create-vite%409.3.0",
-        "notes": "### Features\n\n* **create-vite:** print version before scaffolding ([#23806](https://github.com/vitejs/vite/issues/23806)) ([a3001c5](https://github.com/vitejs/vite/commit/a3001c5e3"
+        "tag": "create-vite@9.3.1",
+        "title": "create-vite@9.3.1",
+        "publishedAt": "2026-10-20T03:01:54Z",
+        "url": "https://github.com/vitejs/vite/releases/tag/create-vite%409.3.1",
+        "notes": "### Bug Fixes\n\n* **create-vite:** use typescript v6 for now ([#23841](https://github.com/vitejs/vite/issues/23841)) ([15c85dd](https://github.com/vitejs/vite/commit/15c85ddae2bbbc3"
       }
     },
     {
