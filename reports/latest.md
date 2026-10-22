@@ -5,7 +5,7 @@ This report changes only when tracked content changes. See Actions for check tim
 
 | Tool | Repository | Release | Published (UTC) |
 | --- | --- | --- | --- |
-| Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.12\.0](https://github.com/nodejs/node/releases/tag/v26.12.0) | 2026-10-14 |
+| Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.12\.1](https://github.com/nodejs/node/releases/tag/v26.12.1) | 2026-10-21 |
 | React | [facebook/react](https://github.com/facebook/react) | [v19\.3\.1](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 |
 | Vite | [vitejs/vite](https://github.com/vitejs/vite) | [v8\.3\.5](https://github.com/vitejs/vite/releases/tag/v8.3.5) | 2026-10-21 |
 | TypeScript | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [v7\.0\.2](https://github.com/microsoft/TypeScript/releases/tag/v7.0.2) | 2026-08-20 |
@@ -17,7 +17,7 @@ Excerpts are attributed to each linked upstream project. Follow the link for ful
 
 ### Node\.js
 
-\#\#\# Notable Changes  \* \\\[\[\`1ebd6d3677\`\]\(https://github\.com/nodejs/node/commit/1ebd6d3677\)\] \- \*\*\(SEMVER\-MINOR\)\*\* \*\*doc,lib,src\*\*: throw on missing WebAssembly or RX support \(Paolo
+This is a security release\.  \#\#\# Notable Changes  \* \(CVE\-2026\-106069, CVE\-2026\-106072\) tls: reject non\-canonical IP addresses \(Matteo Collina\) – High \* \(CVE\-2026\-105482\) dns: valid
 
 ### React
 

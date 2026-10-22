@@ -5,11 +5,11 @@
       "name": "Node.js",
       "repo": "nodejs/node",
       "release": {
-        "tag": "v26.12.0",
-        "title": "2026-10-14, Version 26.12.0 (Current), @richardlau",
-        "publishedAt": "2026-10-14T15:22:04Z",
-        "url": "https://github.com/nodejs/node/releases/tag/v26.12.0",
-        "notes": "### Notable Changes\r\n\r\n* \\[[`1ebd6d3677`](https://github.com/nodejs/node/commit/1ebd6d3677)] - **(SEMVER-MINOR)** **doc,lib,src**: throw on missing WebAssembly or RX support (Paolo"
+        "tag": "v26.12.1",
+        "title": "2026-10-21, Version 26.12.1 (Current), @aduh95 prepared by @RafaelGSS",
+        "publishedAt": "2026-10-21T10:38:29Z",
+        "url": "https://github.com/nodejs/node/releases/tag/v26.12.1",
+        "notes": "This is a security release.\n\n### Notable Changes\n\n* (CVE-2026-106069, CVE-2026-106072) tls: reject non-canonical IP addresses (Matteo Collina) – High\n* (CVE-2026-105482) dns: valid"
       }
     },
     {
