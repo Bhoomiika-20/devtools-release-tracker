@@ -9,7 +9,7 @@ This report changes only when tracked content changes. See Actions for check tim
 | React | [facebook/react](https://github.com/facebook/react) | [v19\.3\.1](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 |
 | Vite | [vitejs/vite](https://github.com/vitejs/vite) | [v8\.3\.5](https://github.com/vitejs/vite/releases/tag/v8.3.5) | 2026-10-21 |
 | TypeScript | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [v7\.0\.2](https://github.com/microsoft/TypeScript/releases/tag/v7.0.2) | 2026-08-20 |
-| VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.142\.0](https://github.com/microsoft/vscode/releases/tag/1.142.0) | 2026-10-14 |
+| VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.143\.1](https://github.com/microsoft/vscode/releases/tag/1.143.1) | 2026-10-22 |
 
 ## Release note excerpts
 
@@ -33,5 +33,5 @@ https://devblogs\.microsoft\.com/typescript/announcing\-typescript\-7\-0/  This 
 
 ### VS Code
 
-https://code\.visualstudio\.com/updates/v1\_142
+https://code\.visualstudio\.com/updates/v1\_143
 
