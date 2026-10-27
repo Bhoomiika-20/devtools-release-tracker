@@ -7,7 +7,7 @@ This report changes only when tracked content changes. See Actions for check tim
 | --- | --- | --- | --- |
 | Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.12\.1](https://github.com/nodejs/node/releases/tag/v26.12.1) | 2026-10-21 |
 | React | [facebook/react](https://github.com/facebook/react) | [v19\.3\.1](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 |
-| Vite | [vitejs/vite](https://github.com/vitejs/vite) | [v8\.3\.5](https://github.com/vitejs/vite/releases/tag/v8.3.5) | 2026-10-21 |
+| Vite | [vitejs/vite](https://github.com/vitejs/vite) | [create\-vite@9\.3\.2](https://github.com/vitejs/vite/releases/tag/create-vite%25409.3.2) | 2026-10-27 |
 | TypeScript | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [v7\.0\.2](https://github.com/microsoft/TypeScript/releases/tag/v7.0.2) | 2026-08-20 |
 | VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.143\.1](https://github.com/microsoft/vscode/releases/tag/1.143.1) | 2026-10-22 |
 
@@ -25,7 +25,7 @@ This is a security release\.  \#\#\# Notable Changes  \* \(CVE\-2026\-106069, CV
 
 ### Vite
 
-\#\#\# Bug Fixes  \* \*\*build:\*\* handle missing chunk import maps \(\[\#23777\]\(https://github\.com/vitejs/vite/issues/23777\)\) \(\[8d7623d\]\(https://github\.com/vitejs/vite/commit/8d7623d9b56477
+\#\#\# Features  \* \*\*create\-vite:\*\* use typescript v7 where possible \(\[\#23910\]\(https://github\.com/vitejs/vite/issues/23910\)\) \(\[0cf91e8\]\(https://github\.com/vitejs/vite/commit/0cf91e843
 
 ### TypeScript
 

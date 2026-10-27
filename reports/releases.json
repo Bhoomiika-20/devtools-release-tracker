@@ -27,11 +27,11 @@
       "name": "Vite",
       "repo": "vitejs/vite",
       "release": {
-        "tag": "v8.3.5",
-        "title": "v8.3.5",
-        "publishedAt": "2026-10-21T06:35:46Z",
-        "url": "https://github.com/vitejs/vite/releases/tag/v8.3.5",
-        "notes": "### Bug Fixes\n\n* **build:** handle missing chunk import maps ([#23777](https://github.com/vitejs/vite/issues/23777)) ([8d7623d](https://github.com/vitejs/vite/commit/8d7623d9b56477"
+        "tag": "create-vite@9.3.2",
+        "title": "create-vite@9.3.2",
+        "publishedAt": "2026-10-27T06:55:31Z",
+        "url": "https://github.com/vitejs/vite/releases/tag/create-vite%409.3.2",
+        "notes": "### Features\n\n* **create-vite:** use typescript v7 where possible ([#23910](https://github.com/vitejs/vite/issues/23910)) ([0cf91e8](https://github.com/vitejs/vite/commit/0cf91e843"
       }
     },
     {
