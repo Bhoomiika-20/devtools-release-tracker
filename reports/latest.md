@@ -5,11 +5,11 @@ This report changes only when tracked content changes. See Actions for check tim
 
 | Tool | Repository | Release | Published (UTC) |
 | --- | --- | --- | --- |
-| Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.12\.1](https://github.com/nodejs/node/releases/tag/v26.12.1) | 2026-10-21 |
+| Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.13\.0](https://github.com/nodejs/node/releases/tag/v26.13.0) | 2026-10-28 |
 | React | [facebook/react](https://github.com/facebook/react) | [v19\.3\.1](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 |
 | Vite | [vitejs/vite](https://github.com/vitejs/vite) | [create\-vite@9\.3\.3](https://github.com/vitejs/vite/releases/tag/create-vite%25409.3.3) | 2026-10-27 |
 | TypeScript | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [v7\.0\.2](https://github.com/microsoft/TypeScript/releases/tag/v7.0.2) | 2026-08-20 |
-| VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.143\.1](https://github.com/microsoft/vscode/releases/tag/1.143.1) | 2026-10-22 |
+| VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.144\.0](https://github.com/microsoft/vscode/releases/tag/1.144.0) | 2026-10-28 |
 
 ## Release note excerpts
 
@@ -17,7 +17,7 @@ Excerpts are attributed to each linked upstream project. Follow the link for ful
 
 ### Node\.js
 
-This is a security release\.  \#\#\# Notable Changes  \* \(CVE\-2026\-106069, CVE\-2026\-106072\) tls: reject non\-canonical IP addresses \(Matteo Collina\) – High \* \(CVE\-2026\-105482\) dns: valid
+\#\#\# Notable Changes  This release marks the transition of Node\.js 26\.x into Long Term Support \(LTS\) with the codename 'Lithium'\. It will continue to receive updates through to 
 
 ### React
 
@@ -33,5 +33,5 @@ https://devblogs\.microsoft\.com/typescript/announcing\-typescript\-7\-0/  This 
 
 ### VS Code
 
-https://code\.visualstudio\.com/updates/v1\_143
+https://code\.visualstudio\.com/updates/v1\_144
 
