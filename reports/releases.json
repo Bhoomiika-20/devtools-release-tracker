@@ -27,11 +27,11 @@
       "name": "Vite",
       "repo": "vitejs/vite",
       "release": {
-        "tag": "create-vite@9.3.3",
-        "title": "create-vite@9.3.3",
-        "publishedAt": "2026-10-27T09:27:16Z",
-        "url": "https://github.com/vitejs/vite/releases/tag/create-vite%409.3.3",
-        "notes": "### Bug Fixes\n\n* **create-vite:** include template files in package ([#23915](https://github.com/vitejs/vite/issues/23915)) ([f4abfb5](https://github.com/vitejs/vite/commit/f4abfb5"
+        "tag": "create-vite@9.3.4",
+        "title": "create-vite@9.3.4",
+        "publishedAt": "2026-11-05T06:02:20Z",
+        "url": "https://github.com/vitejs/vite/releases/tag/create-vite%409.3.4",
+        "notes": "### Bug Fixes\n\n* **create-vite:** keep TypeScript 6 when using ESLint ([#23931](https://github.com/vitejs/vite/issues/23931)) ([28e1710](https://github.com/vitejs/vite/commit/28e17"
       }
     },
     {
@@ -49,11 +49,11 @@
       "name": "VS Code",
       "repo": "microsoft/vscode",
       "release": {
-        "tag": "1.144.0",
-        "title": "1.144.0",
-        "publishedAt": "2026-10-28T18:51:38Z",
-        "url": "https://github.com/microsoft/vscode/releases/tag/1.144.0",
-        "notes": "https://code.visualstudio.com/updates/v1_144"
+        "tag": "1.145.0",
+        "title": "1.145.0",
+        "publishedAt": "2026-11-04T08:36:49Z",
+        "url": "https://github.com/microsoft/vscode/releases/tag/1.145.0",
+        "notes": "https://code.visualstudio.com/updates/v1_145"
       }
     }
   ]

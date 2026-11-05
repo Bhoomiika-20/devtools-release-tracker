@@ -7,9 +7,9 @@ This report changes only when tracked content changes. See Actions for check tim
 | --- | --- | --- | --- |
 | Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.13\.0](https://github.com/nodejs/node/releases/tag/v26.13.0) | 2026-10-28 |
 | React | [facebook/react](https://github.com/facebook/react) | [v19\.3\.1](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 |
-| Vite | [vitejs/vite](https://github.com/vitejs/vite) | [create\-vite@9\.3\.3](https://github.com/vitejs/vite/releases/tag/create-vite%25409.3.3) | 2026-10-27 |
+| Vite | [vitejs/vite](https://github.com/vitejs/vite) | [create\-vite@9\.3\.4](https://github.com/vitejs/vite/releases/tag/create-vite%25409.3.4) | 2026-11-05 |
 | TypeScript | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [v7\.0\.2](https://github.com/microsoft/TypeScript/releases/tag/v7.0.2) | 2026-08-20 |
-| VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.144\.0](https://github.com/microsoft/vscode/releases/tag/1.144.0) | 2026-10-28 |
+| VS Code | [microsoft/vscode](https://github.com/microsoft/vscode) | [1\.145\.0](https://github.com/microsoft/vscode/releases/tag/1.145.0) | 2026-11-04 |
 
 ## Release note excerpts
 
@@ -25,7 +25,7 @@ Excerpts are attributed to each linked upstream project. Follow the link for ful
 
 ### Vite
 
-\#\#\# Bug Fixes  \* \*\*create\-vite:\*\* include template files in package \(\[\#23915\]\(https://github\.com/vitejs/vite/issues/23915\)\) \(\[f4abfb5\]\(https://github\.com/vitejs/vite/commit/f4abfb5
+\#\#\# Bug Fixes  \* \*\*create\-vite:\*\* keep TypeScript 6 when using ESLint \(\[\#23931\]\(https://github\.com/vitejs/vite/issues/23931\)\) \(\[28e1710\]\(https://github\.com/vitejs/vite/commit/28e17
 
 ### TypeScript
 
@@ -33,5 +33,5 @@ https://devblogs\.microsoft\.com/typescript/announcing\-typescript\-7\-0/  This 
 
 ### VS Code
 
-https://code\.visualstudio\.com/updates/v1\_144
+https://code\.visualstudio\.com/updates/v1\_145
 
