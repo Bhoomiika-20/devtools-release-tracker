@@ -27,11 +27,11 @@
       "name": "Vite",
       "repo": "vitejs/vite",
       "release": {
-        "tag": "v8.3.6",
-        "title": "v8.3.6",
-        "publishedAt": "2026-11-05T05:39:36Z",
-        "url": "https://github.com/vitejs/vite/releases/tag/v8.3.6",
-        "notes": "### Bug Fixes\r\n\r\n* await overlapping plugin container close calls ([#23935](https://github.com/vitejs/vite/issues/23935)) ([175bbeb](https://github.com/vitejs/vite/commit/175bbeb23"
+        "tag": "v6.4.6",
+        "title": "v6.4.6",
+        "publishedAt": "2026-11-09T11:03:41Z",
+        "url": "https://github.com/vitejs/vite/releases/tag/v6.4.6",
+        "notes": "Please refer to [CHANGELOG.md](https://github.com/vitejs/vite/blob/v6.4.6/packages/vite/CHANGELOG.md) for details."
       }
     },
     {
