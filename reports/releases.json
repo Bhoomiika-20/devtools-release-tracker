@@ -27,11 +27,11 @@
       "name": "Vite",
       "repo": "vitejs/vite",
       "release": {
-        "tag": "v6.4.6",
-        "title": "v6.4.6",
-        "publishedAt": "2026-11-09T11:03:41Z",
-        "url": "https://github.com/vitejs/vite/releases/tag/v6.4.6",
-        "notes": "Please refer to [CHANGELOG.md](https://github.com/vitejs/vite/blob/v6.4.6/packages/vite/CHANGELOG.md) for details."
+        "tag": "v8.3.7",
+        "title": "v8.3.7",
+        "publishedAt": "2026-11-09T10:23:22Z",
+        "url": "https://github.com/vitejs/vite/releases/tag/v8.3.7",
+        "notes": "### Bug Fixes\r\n\r\n* **deps:** update Rolldown to v1.2.18 ([#24038](https://github.com/vitejs/vite/issues/24038)) ([517affb](https://github.com/vitejs/vite/commit/517affb174632db347a"
       }
     },
     {
