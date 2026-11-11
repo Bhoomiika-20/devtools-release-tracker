@@ -27,11 +27,11 @@
       "name": "Vite",
       "repo": "vitejs/vite",
       "release": {
-        "tag": "v8.3.7",
-        "title": "v8.3.7",
-        "publishedAt": "2026-11-09T10:23:22Z",
-        "url": "https://github.com/vitejs/vite/releases/tag/v8.3.7",
-        "notes": "### Bug Fixes\r\n\r\n* **deps:** update Rolldown to v1.2.18 ([#24038](https://github.com/vitejs/vite/issues/24038)) ([517affb](https://github.com/vitejs/vite/commit/517affb174632db347a"
+        "tag": "v8.3.8",
+        "title": "v8.3.8",
+        "publishedAt": "2026-11-11T02:46:37Z",
+        "url": "https://github.com/vitejs/vite/releases/tag/v8.3.8",
+        "notes": "### Bug Fixes\n\n* **build:** keep `magicString` and `ast` in transform hook meta ([#24012](https://github.com/vitejs/vite/issues/24012)) ([a3b28e8](https://github.com/vitejs/vite/co"
       }
     },
     {
@@ -49,11 +49,11 @@
       "name": "VS Code",
       "repo": "microsoft/vscode",
       "release": {
-        "tag": "1.145.2",
-        "title": "1.145.2",
-        "publishedAt": "2026-11-06T10:21:07Z",
-        "url": "https://github.com/microsoft/vscode/releases/tag/1.145.2",
-        "notes": "https://code.visualstudio.com/updates/v1_145"
+        "tag": "1.146.0",
+        "title": "1.146.0",
+        "publishedAt": "2026-11-11T10:07:14Z",
+        "url": "https://github.com/microsoft/vscode/releases/tag/1.146.0",
+        "notes": "https://code.visualstudio.com/updates/v1_146"
       }
     }
   ]
