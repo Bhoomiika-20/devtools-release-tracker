@@ -5,11 +5,11 @@
       "name": "Node.js",
       "repo": "nodejs/node",
       "release": {
-        "tag": "v26.13.0",
-        "title": "2026-10-28, Version 26.13.0 'Lithium' (LTS), @richardlau",
-        "publishedAt": "2026-10-28T16:57:41Z",
-        "url": "https://github.com/nodejs/node/releases/tag/v26.13.0",
-        "notes": "### Notable Changes\r\n\r\nThis release marks the transition of Node.js 26.x into Long Term Support (LTS)\r\nwith the codename 'Lithium'. It will continue to receive updates through to\r\n"
+        "tag": "v26.13.1",
+        "title": "2026-11-11, Version 26.13.1 'Lithium' (LTS), @aduh95",
+        "publishedAt": "2026-11-11T16:44:25Z",
+        "url": "https://github.com/nodejs/node/releases/tag/v26.13.1",
+        "notes": "This is a security release.\n\n### Notable Changes\n\n* (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High\n* (CVE-2026-123864) tls,http: prevent "
       }
     },
     {
