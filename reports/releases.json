@@ -5,11 +5,11 @@
       "name": "Node.js",
       "repo": "nodejs/node",
       "release": {
-        "tag": "v26.13.1",
-        "title": "2026-11-11, Version 26.13.1 'Lithium' (LTS), @aduh95",
-        "publishedAt": "2026-11-11T16:44:25Z",
-        "url": "https://github.com/nodejs/node/releases/tag/v26.13.1",
-        "notes": "This is a security release.\n\n### Notable Changes\n\n* (CVE-2026-123863) http2: release headers when a stream is removed (Matteo Collina) – High\n* (CVE-2026-123864) tls,http: prevent "
+        "tag": "v27.0.0-alpha.0.1.0",
+        "title": "2026-11-12, Version 27.0.0-alpha.0.1.0 (Alpha), @aduh95",
+        "publishedAt": "2026-11-12T13:35:13Z",
+        "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0",
+        "notes": "### Notable Changes\n\n* \\[[`33d4e6c73a`](https://github.com/nodejs/node/commit/33d4e6c73a)] - **(SEMVER-MINOR)** **child\\_process**: add subprocess.timedOut (Marco) [#66639](https:/"
       }
     },
     {

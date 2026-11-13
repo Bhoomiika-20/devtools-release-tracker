@@ -5,7 +5,7 @@ This report changes only when tracked content changes. See Actions for check tim
 
 | Tool | Repository | Release | Published (UTC) |
 | --- | --- | --- | --- |
-| Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v26\.13\.1](https://github.com/nodejs/node/releases/tag/v26.13.1) | 2026-11-11 |
+| Node\.js | [nodejs/node](https://github.com/nodejs/node) | [v27\.0\.0\-alpha\.0\.1\.0](https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0) | 2026-11-12 |
 | React | [facebook/react](https://github.com/facebook/react) | [v19\.3\.1](https://github.com/react/react/releases/tag/v19.3.1) | 2026-10-14 |
 | Vite | [vitejs/vite](https://github.com/vitejs/vite) | [v8\.3\.8](https://github.com/vitejs/vite/releases/tag/v8.3.8) | 2026-11-11 |
 | TypeScript | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | [v7\.0\.2](https://github.com/microsoft/TypeScript/releases/tag/v7.0.2) | 2026-08-20 |
@@ -17,7 +17,7 @@ Excerpts are attributed to each linked upstream project. Follow the link for ful
 
 ### Node\.js
 
-This is a security release\.  \#\#\# Notable Changes  \* \(CVE\-2026\-123863\) http2: release headers when a stream is removed \(Matteo Collina\) – High \* \(CVE\-2026\-123864\) tls,http: prevent 
+\#\#\# Notable Changes  \* \\\[\[\`33d4e6c73a\`\]\(https://github\.com/nodejs/node/commit/33d4e6c73a\)\] \- \*\*\(SEMVER\-MINOR\)\*\* \*\*child\\\_process\*\*: add subprocess\.timedOut \(Marco\) \[\#66639\]\(https:/
 
 ### React
 
