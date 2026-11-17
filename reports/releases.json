@@ -5,11 +5,11 @@
       "name": "Node.js",
       "repo": "nodejs/node",
       "release": {
-        "tag": "v27.0.0-alpha.0.1.0",
-        "title": "2026-11-12, Version 27.0.0-alpha.0.1.0 (Alpha), @aduh95",
-        "publishedAt": "2026-11-12T13:35:13Z",
-        "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.0",
-        "notes": "### Notable Changes\n\n* \\[[`33d4e6c73a`](https://github.com/nodejs/node/commit/33d4e6c73a)] - **(SEMVER-MINOR)** **child\\_process**: add subprocess.timedOut (Marco) [#66639](https:/"
+        "tag": "v27.0.0-alpha.0.1.1",
+        "title": "2026-11-16, Version 27.0.0-alpha.0.1.1 (Alpha), @aduh95",
+        "publishedAt": "2026-11-17T03:48:38Z",
+        "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1",
+        "notes": "### Notable Changes\r\n\r\n* \\[[`e0c71bcd1c`](https://github.com/nodejs/node/commit/e0c71bcd1c)] - **tools**: notarize `bin/node` in the darwin tarballs (Ulises Gascón) [#67143](https:"
       }
     },
     {
