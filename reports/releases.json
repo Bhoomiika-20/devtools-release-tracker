@@ -49,11 +49,11 @@
       "name": "VS Code",
       "repo": "microsoft/vscode",
       "release": {
-        "tag": "1.147.0",
-        "title": "1.147.0",
-        "publishedAt": "2026-11-18T09:45:23Z",
-        "url": "https://github.com/microsoft/vscode/releases/tag/1.147.0",
-        "notes": "https://code.visualstudio.com/updates/v1_147"
+        "tag": "1.148.0",
+        "title": "1.148.0",
+        "publishedAt": "2026-11-25T09:44:02Z",
+        "url": "https://github.com/microsoft/vscode/releases/tag/1.148.0",
+        "notes": "https://code.visualstudio.com/updates/v1_148"
       }
     }
   ]
