@@ -5,11 +5,11 @@
       "name": "Node.js",
       "repo": "nodejs/node",
       "release": {
-        "tag": "v27.0.0-alpha.0.1.1",
-        "title": "2026-11-16, Version 27.0.0-alpha.0.1.1 (Alpha), @aduh95",
-        "publishedAt": "2026-11-17T03:48:38Z",
-        "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.1.1",
-        "notes": "### Notable Changes\r\n\r\n* \\[[`e0c71bcd1c`](https://github.com/nodejs/node/commit/e0c71bcd1c)] - **tools**: notarize `bin/node` in the darwin tarballs (Ulises Gascón) [#67143](https:"
+        "tag": "v27.0.0-alpha.0.2.0",
+        "title": "2026-11-26, Version 27.0.0-alpha.0.2.0 (Alpha), @aduh95",
+        "publishedAt": "2026-11-26T08:45:39Z",
+        "url": "https://github.com/nodejs/node/releases/tag/v27.0.0-alpha.0.2.0",
+        "notes": "### Notable Changes\r\n\r\n* \\[[`79db466ecc`](https://github.com/nodejs/node/commit/79db466ecc)] - **doc**: deprecate `util.TextDecoder` and `util.TextEncoder` (LiviaMedeiros) [#67461]"
       }
     },
     {
@@ -27,11 +27,11 @@
       "name": "Vite",
       "repo": "vitejs/vite",
       "release": {
-        "tag": "v8.3.8",
-        "title": "v8.3.8",
-        "publishedAt": "2026-11-11T02:46:37Z",
-        "url": "https://github.com/vitejs/vite/releases/tag/v8.3.8",
-        "notes": "### Bug Fixes\n\n* **build:** keep `magicString` and `ast` in transform hook meta ([#24012](https://github.com/vitejs/vite/issues/24012)) ([a3b28e8](https://github.com/vitejs/vite/co"
+        "tag": "v8.4.0",
+        "title": "v8.4.0",
+        "publishedAt": "2026-11-26T10:57:29Z",
+        "url": "https://github.com/vitejs/vite/releases/tag/v8.4.0",
+        "notes": "### Features\r\n\r\n* add plugin name to hook errors ([#24107](https://github.com/vitejs/vite/issues/24107)) ([40475e5](https://github.com/vitejs/vite/commit/40475e51e785e470b09a67b23d"
       }
     },
     {
